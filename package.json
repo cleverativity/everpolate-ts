@@ -2,7 +2,7 @@
   "name": "everpolate-ts",
   "version": "0.0.1",
   "description": "",
-  "main": "lib/evarpolate.js",
+  "main": "lib/everpolate.js",
   "types": "lib/everpolate.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
