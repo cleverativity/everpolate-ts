@@ -1,0 +1,25 @@
+{
+  "name": "everpolate-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/evarpolate.js",
+  "types": "lib/everpolate.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleverativity/smooth-array-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleverativity/smooth-array-js/issues"
+  },
+  "homepage": "https://github.com/cleverativity/smooth-array-js#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
